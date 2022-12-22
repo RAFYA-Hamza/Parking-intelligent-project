@@ -3,7 +3,7 @@ Our project consists of a connected car park that manages spaces in a flexible a
 
 # Main functions :
 
-PF1: Car park entrance management.
+PF1: Car park entrance management.\\
 PF2: Car park exit management.
 PF3: Management of parking spaces.
 PF4: Server management and interface.
