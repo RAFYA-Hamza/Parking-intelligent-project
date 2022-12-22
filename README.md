@@ -11,3 +11,8 @@ PF4: Server management and interface.
 Here is the following table detailing the four functions :
 
 ![Inout](https://user-images.githubusercontent.com/101463808/209159142-8a255825-514e-477a-aff5-c8b93b26d240.png)
+
+in the following figure we find the four functions, the relationship between each device with the server :
+
+![smart_parking](https://user-images.githubusercontent.com/101463808/209159632-a03b9aa2-5b04-42d5-9902-3ab276706513.png)
+
